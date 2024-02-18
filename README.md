@@ -1,4 +1,4 @@
-<div style="width:100%">
+<div width='100%'>
     <h1>Web Developer</h1>
 </div>
 
