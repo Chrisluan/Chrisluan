@@ -4,7 +4,7 @@
 
 
   <div>
-  <a align="center">
+  <a>
     <h3 align="center">Hi! How you been? My name is Chrisluan. And here I introduce all my projects as a Web developer</h3>
 <p>
     <a >
