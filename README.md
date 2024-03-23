@@ -1,13 +1,14 @@
-<div color='black'>
-    <h1>Web Developer</h1>
+<div>
+    <h1>Full-Stack Developer</h1>
 </div>
 
 
   <div>
   <a>
-    <h3>Hi! How you been? My name is Chrisluan.</br> And here I introduce all my projects as a Web developer</h3>
+    <h3>Hey, sup. My name's Chrisluan and this is my github profile, hope you like it.</h3>
     <p>
     <a >
+    <h4>Here are some technologies i know at least a bit:</h4>
     <img src="https://skillicons.dev/icons?i=git,js,mysql,react,flutter,express,nodejs,cs,py" />
   </a>
 </p>
