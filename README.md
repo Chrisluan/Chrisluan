@@ -1,4 +1,4 @@
-<div width='100%' align='center' color='black'>
+<div color='black'>
     <h1>Web Developer</h1>
 </div>
 
