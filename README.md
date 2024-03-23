@@ -9,7 +9,7 @@
     <p>
     <a >
     <h4>Here are some technologies i know at least a bit:</h4>
-    <img src="https://skillicons.dev/icons?i=git,js,mysql,react,flutter,express,nodejs,cs,py,dart,java" />
+    <img src="https://skillicons.dev/icons?i=git,js,mysql,react,flutter,nodejs,cs,py,dart,java&perline=5" />
   </a>
 </p>
   
